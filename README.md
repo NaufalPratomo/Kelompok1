@@ -1,5 +1,5 @@
 # JobSheet2-Tugas
-Tugas dari JobSheet2
+Tugas JobSheet2
 
 # Waktu pengerjaan : 60 menit
 1. Buatlah kelompok yang terdiri dari 3 orang!
